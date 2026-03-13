@@ -7,3 +7,9 @@
     font-weight: bold;
     font-family: "Inter";
 }
+
+.container {
+    background-color: #1b6073;
+    border-radius: 5px;
+    padding: 20px 40px;
+}
